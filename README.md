@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🌱 혜성이의 우당탕 개발일지
-## 🎈 2020.12 ~ 
+
 
 <!--
 **hye-ss929/hye-ss929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
